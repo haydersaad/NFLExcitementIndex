@@ -7,4 +7,5 @@ Video details thought process behind and features of project.
 ![alt text](https://github.com/haydersaad/NFLExcitementIndex/blob/main/Excitement%20Formula.png)
 
 Data for 2021-22 season for use in API can be downloaded from: https://github.com/nflverse/nflfastR-data/tree/master/data
+
 API made using streamlit.io.
